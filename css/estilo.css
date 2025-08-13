@@ -1,0 +1,42 @@
+.lista:hover{
+    background-color: rgb(173, 255, 173);
+}
+
+body{
+    font-family: 'Cinzel', sans-serif;
+    font-size: 22px;
+}
+
+.form{
+    font-family: 'Cinzel', sans-serif;
+    font-size: 22px;
+}
+
+.botao{
+    border-radius: 10px;
+    background-color: rgb(112, 235, 120);
+    width: 40px;
+    height: 40px;
+    margin: 10px;
+}
+
+.botao:hover{
+    background-color: rgb(85, 179, 92);
+}
+
+.buttons{
+    border-radius: 6px;
+    padding: 6px;
+    font-family: var(--font-titulo);
+    background-color: #83f083;
+    border-color: #3c9d3c;
+    border-width: 0px;
+    font-size: 22px;
+    color: #3c9d3c;
+}
+.buttons:hover{
+    background-color: #3c9d3c;
+    border-color: #83f083;
+    cursor: pointer;
+    color: #83f083;
+}
